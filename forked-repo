@@ -1,0 +1,14 @@
+$ curl https://api.github.com/repos/deolyneast-ship-it/simple-interest-calculator
+
+{
+  "name": "simple-interest-calculator",
+  "full_name": "deolyneast-ship-it/simple-interest-calculator",
+  "private": false,
+  "fork": true,
+  "url": "https://api.github.com/repos/deolyneast-ship-it/simple-interest-calculator",
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  ... (rest of the JSON output)
+}
