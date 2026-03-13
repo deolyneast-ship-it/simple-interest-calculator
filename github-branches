@@ -1,0 +1,3 @@
+user@terminal:~/simple-interest-calculator$ git branch -vv
+* main          9c4d5e6 [origin/main] Fix typo in README
+  bug-fix-typo  9c4d5e6 [origin/bug-fix-typo] Fix typo in README
