@@ -1,0 +1,22 @@
+$ curl https://api.github.com/repos/deolyneast-ship-it/simple-interest-calculator/pulls/1
+
+{
+  "url": "https://api.github.com/repos/deolyneast-ship-it/simple-interest-calculator/pulls/1",
+  "id": 123456789,
+  "state": "open",
+  "title": "Fixing typo in README",
+  "user": {
+    "login": "deolyneast-ship-it"
+  },
+  "head": {
+    "label": "deolyneast-ship-it:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "full_name": "deolyneast-ship-it/simple-interest-calculator"
+    }
+  },
+  "base": {
+    "label": "deolyneast-ship-it:main",
+    "ref": "main"
+  }
+}
